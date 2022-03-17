@@ -1,3 +1,0 @@
-include ':usbserial'
-include ':app'
-rootProject.name = "AED_drone"
